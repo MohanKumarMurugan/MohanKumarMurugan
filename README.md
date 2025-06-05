@@ -5,30 +5,9 @@
 </div>
 
 ## 🚀 About Me
-I'm a passionate Computer Science student from Chennai, India, completed my B.E. at Jaya Engineering College. I love building real-world projects and exploring new technologies to solve problems through code.
+**Passionate Full Stack Developer and Computer Science graduate from Chennai, India, with hands-on experience in building scalable web applications and a strong focus on modern technologies. Eager to drive innovation and deliver impactful results in dynamic teams.**
 
-## 🛠️ Tech Stack
-**Frontend:**
-- HTML, CSS, JavaScript
-- Tailwind CSS, Bootstrap
-- React.js
-
-**Backend:**
-- Python, Node.js (Express)
-- Django, REST APIs (Learning Process)
-
-**Database:**
-- MongoDB, MySQL
-
-**Others:**
-- Git & GitHub
-- WordPress
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanKumarMurugan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanKumarMurugan&theme=radical" alt="GitHub Streak" />
-</div>
+---
 
 ## 🏅 Badges & Achievements
 <div align="center">
@@ -41,7 +20,37 @@ I'm a passionate Computer Science student from Chennai, India, completed my B.E.
 - 🌟 Active open-source contributor
 - 📚 Continuous learner and tech enthusiast
 
+---
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![React](https://img.shields.io/badge/React-Advanced-blue)
+![Django](https://img.shields.io/badge/Django-Intermediate-green)
+
+---
+
+## 🛠️ Tech Stack
+**Frontend:**  
+- HTML, CSS, JavaScript  
+- Tailwind CSS, Bootstrap  
+- React.js  
+
+**Backend:**  
+- Python, Node.js (Express)  
+- Django, REST APIs (Learning Process)  
+
+**Database:**  
+- MongoDB, MySQL  
+
+**Others:**  
+- Git & GitHub  
+- WordPress  
+
+---
+
 ## 💼 Experience
+
 **Xtracut Company**  
 *Jr Web Developer* (01/28/2025 – Present)  
 - Working as a Junior Web Developer, contributing to web application development and collaborating with cross-functional teams to deliver high-quality solutions.
@@ -54,10 +63,33 @@ I'm a passionate Computer Science student from Chennai, India, completed my B.E.
 - Collaborated with UI/UX designers to create responsive, user-friendly interfaces and user experience.
 - Conducted testing and debugging to ensure cross-browser compatibility, participated in code reviews, and contributed to improving code quality.
 
+---
+
+## 🚩 Featured Projects
+
+### [Learning Management System](https://github.com/MohanKumarMurugan/Learning_Management_System_V3)
+A platform for managing online courses and learning materials.  
+![LMS Screenshot](https://your-image-link.com/lms-demo.gif)
+- **Tech:** Django, PostgreSQL, React
+- **Features:** User authentication, course management, progress tracking
+
+---
+
+## 📊 GitHub Stats & Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanKumarMurugan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanKumarMurugan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanKumarMurugan&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
 ## 🧠 Learning & Interests
 - 🔭 Currently working on: Full-Stack Django Projects + Portfolio Website
 - 🌱 Learning: Django, Next.js
 - 💡 Interests: Full-Stack Development, Open Source, AI/ML
+
+---
 
 ## 📫 Connect With Me
 <div align="center">
@@ -71,35 +103,12 @@ I'm a passionate Computer Science student from Chennai, India, completed my B.E.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-## 📈 Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanKumarMurugan&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+> *Open to full-time, internship, and freelance opportunities!*
 
 ---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MohanKumarMurugan&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-⭐️ From [Mohan Kumar M](https://github.com/MohanKumarMurugan) 
-
-## 🚩 Featured Projects
-
-### [Learning Management System](https://github.com/MohanKumarMurugan/Learning_Management_System_V3)
-A platform for managing online courses and learning materials.
-![LMS Screenshot](https://your-image-link.com/lms-demo.gif)
-- **Tech:** Django, PostgreSQL, React
-- **Features:** User authentication, course management, progress tracking
-
-## 📬 Let's Connect!
-- 📧 Email: your-email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 🌐 [Portfolio](#)
-> *Open to full-time, internship, and freelance opportunities!*
-
-## 🛠️ Skills
-
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![React](https://img.shields.io/badge/React-Advanced-blue)
-![Django](https://img.shields.io/badge/Django-Intermediate-green)
+⭐️ From [Mohan Kumar M](https://github.com/MohanKumarMurugan)
