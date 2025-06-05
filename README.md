@@ -26,8 +26,8 @@ I'm a passionate Computer Science student from Chennai, India, completed my B.E.
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohankumarM&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohankumarM&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanKumarMurugan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanKumarMurugan&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🏅 Badges & Achievements
@@ -83,3 +83,23 @@ I'm a passionate Computer Science student from Chennai, India, completed my B.E.
 </div>
 
 ⭐️ From [Mohan Kumar M](https://github.com/MohanKumarMurugan) 
+
+## 🚩 Featured Projects
+
+### [Learning Management System](https://github.com/MohanKumarMurugan/Learning_Management_System_V3)
+A platform for managing online courses and learning materials.
+![LMS Screenshot](https://your-image-link.com/lms-demo.gif)
+- **Tech:** Django, PostgreSQL, React
+- **Features:** User authentication, course management, progress tracking
+
+## 📬 Let's Connect!
+- 📧 Email: your-email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 🌐 [Portfolio](#)
+> *Open to full-time, internship, and freelance opportunities!*
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![React](https://img.shields.io/badge/React-Advanced-blue)
+![Django](https://img.shields.io/badge/Django-Intermediate-green)
