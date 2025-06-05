@@ -74,12 +74,12 @@ I'm a passionate Computer Science student from Chennai, India, completed my B.E.
 
 ## 📈 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohankumarM&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanKumarMurugan&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohankumarM&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MohanKumarMurugan&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ⭐️ From [Mohan Kumar M](https://github.com/MohanKumarMurugan) 
