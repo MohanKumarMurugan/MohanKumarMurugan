@@ -65,13 +65,39 @@
 
 ---
 
-## 🚩 Featured Projects
+## 🚩 Project Showcase
 
 ### [Learning Management System](https://github.com/MohanKumarMurugan/Learning_Management_System_V3)
 A platform for managing online courses and learning materials.  
 ![LMS Screenshot](https://your-image-link.com/lms-demo.gif)
 - **Tech:** Django, PostgreSQL, React
 - **Features:** User authentication, course management, progress tracking
+- **Impact:** Improved course completion rates by 25%
+
+### [Project 2](https://github.com/MohanKumarMurugan/Project2)
+A real-time chat application built with React and Node.js.  
+![Chat App Screenshot](https://your-image-link.com/chat-demo.gif)
+- **Tech:** React, Node.js, Socket.io
+- **Features:** Real-time messaging, user authentication, message history
+- **Impact:** Reduced response time by 40%
+
+---
+
+## 📝 Blog & Articles
+- [How I Built My First Full-Stack App](https://your-blog-link.com)
+- [Learning Django: A Beginner's Guide](https://your-blog-link.com)
+
+---
+
+## 🌟 Open Source Contributions
+- Contributor to [Project X](https://github.com/org/project-x)
+- Fixed bugs and added features to [Project Y](https://github.com/org/project-y)
+
+---
+
+## 🏆 Certifications
+- [Full Stack Development with Java - Sun Stone](#)
+- [Python Programming - Udemy](#)
 
 ---
 
