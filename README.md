@@ -77,7 +77,7 @@ A platform for managing online courses and learning materials.
 
 ## 📊 GitHub Stats & Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanKumarMurugan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanKumarMurugan&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanKumarMurugan&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanKumarMurugan&layout=compact&theme=radical" alt="Top Languages" />
 </div>
